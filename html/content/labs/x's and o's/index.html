@@ -1,0 +1,167 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Untitled</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+    <style type="text/css">
+        body
+        {
+            margin:0;
+            padding:0;
+        }
+    </style>
+</head>
+
+<body>
+	
+<canvas id="canvas-main"><img src="images/middle_band.png"/> </canvas>
+<script language="javascript" src="js/jquery-1.6.2.min.js"></script>
+<script>
+
+/* Author Barry Morwood */
+
+
+Sprite = function (context, src) {
+
+	this.context = context;
+	this.x = 0;
+	this.y = 0;
+	this.image = new Image();
+	this.image.src = src;
+	this.width = this.image.width;
+	this.height = this.image.height;
+	this.rotation = 0;
+	this.name = "";
+	this.speed = 1;
+
+	
+	this.render = function (){
+		this.context.save();
+		this.context.translate(this.x, this.y);
+		this.context.rotate(this.rotation);
+		this.context.drawImage(this.image, -(this.width/2), -(this.height/2), this.width, this.height);
+		this.context.restore();
+	}
+ }
+ 
+ /*
+ Object.prototype.render = function (){
+		this.context.save();
+		this.context.translate(this.x, this.y);
+		this.context.rotate(this.rotation);
+		this.context.drawImage(this.image, -(this.width/2), -(this.height/2), this.width, this.height);
+		this.context.restore();
+}
+*/
+ 
+
+ var canvas = $('#canvas-main')[0];
+ var context = canvas.getContext('2d');
+ 
+ $('#canvas-main').click(createSprite);
+ 
+ canvas.style.background = "#717070";
+ canvas.width = 1000;
+ canvas.height = 500;
+ 
+ var instances = [];
+ 
+ //create random circles
+ 
+ var bar  = new Sprite(context, "images/middle_band.png");
+ bar.y = canvas.height/2;
+ bar.x = canvas.width/2;
+ bar.render();
+ 
+ setInterval(createRandomSprite, 1000);
+ setInterval(enterFrame, 1000/60);
+
+ 
+ function enterFrame(){
+	
+	context.clearRect (0, 0,  canvas.width, canvas.height);
+	
+	var len = instances.length;
+	
+	for(var i = 0; i < len; i++){
+	
+		if(instances[i] == null)
+			continue;
+	
+		instances[i].y -= instances[i].speed;
+		instances[i].rotation -= 0.05;
+		
+		if(instances[i].y  < canvas.height/2){
+			if(instances[i].name == "white"){
+				instances[i].image.src = "images/square2.png";
+			}else{
+				instances[i].image.src = "images/square.png";
+			}
+		}
+		
+		if(instances[i].y > (instances[i].height) * -1)
+			instances[i].render();
+		
+			// find a way to delete the items
+		if(instances[i].y < (instances[i].height * -1))
+			delete instances[i];
+		
+	}
+	
+	bar.render();
+ }
+ 
+ function removeByElement(arrayName,arrayElement)
+ {
+  for(var i=0; i<arrayName.length;i++ )
+   { 
+  if(arrayName[i]==arrayElement)
+  arrayName.splice(i,1); 
+  } 
+  }
+ 
+ function createRandomSprite(){
+ 
+	var item = new Sprite(context,"images/cross.png");
+	item.x = Math.random() * canvas.width;
+	item.y = canvas.height + item.height;
+	//item.rotation = Math.random() * 360;
+	item.speed = (Math.random() * 0.5) + 1;
+	item.name = "black";
+	instances.push(item);
+ }
+ 
+ function createSprite(e){
+	 var mouseX, mouseY;
+
+	 if(e.offsetX) {
+		 mouseX = e.offsetX;
+		 mouseY = e.offsetY;
+	 }
+	 else if(e.layerX) {
+		 mouseX = e.layerX;
+		 mouseY = e.layerY;
+	 }
+
+	 /* do something with mouseX/mouseY */
+	var item = new Sprite(context,"images/cross2.png");
+	item.x = mouseX;
+	item.y = mouseY;
+	item.name = "white";
+	//item.rotation = Math.random() * 360;
+	item.speed = (Math.random() * 0.5) + 1;
+
+	instances.push(item);
+	
+	console.log(instances.length);
+ }
+ 
+ 
+ 
+
+</script>
+</body>
+</html>

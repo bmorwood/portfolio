@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<title>Flash</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		
+	    <style type="text/css">
+		    body{
+			    background:#fff;
+			    margin:0px;
+			    padding:0px;
+		    }
+		</style>
+	</head>
+	<body>
+		<div id="flashContent">
+			<h1>Alternative content</h1>
+			<p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" /></a></p>
+		</div>
+
+        <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+        <script type="text/javascript">
+        // <![CDATA[
+            google.load("swfobject", "2.2");
+        // ]]>
+        </script>
+
+		<script type="text/javascript">
+
+		    var flashvars = { xml_path: "xml/en_coke_ppc_questions.xml", ppc_path: "swf/en_954x800_coke_ppc_v1.swf", lang: "en" };
+		    var params = { menu: "false", wmode: "transparent" };
+		    var attributes = {};
+
+		    swfobject.embedSWF("swf/en_954x800_coke_ppc_preloader_v1.swf", "flashContent", "954", "800", "9.0.0", "swf/expressInstall.swf", flashvars, params, attributes);
+		    swfobject.createCSS("#flashContent", "outline:none");
+
+		</script>
+
+	</body>
+</html>

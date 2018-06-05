@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<config>
+		<facebookShare><![CDATA[http://www.facebook.com/sharer.php?u=^^serverdomain^^^^cxroot^^%2F^^lang^^%2Ffacebook%2Fshare%2F%3Fpromo%3Dpaw-print%26param1%3D^^badge^^%26contentUrl%3D%2Fextras%2Fpaw-print%26shareback%3Dfacebook]]></facebookShare>
+		<twitterShare><![CDATA[http://twitter.com/home?status=Je+viens+de+mesurer+ma+contribution+positive+%c3%a0+la+sauvegarde+des+ours+polaires.+V%c3%a9rifie+la+tienne+sur+iCoke.ca! ^^twitterShareBitly^^ ]]></twitterShare>
+		<twitterShareBitly><![CDATA[^^serverdomain^^^^cxroot^^/^^lang^^/facebook/share/?promo=paw-print&param1=^^badge^^&shareback=twitter]]></twitterShareBitly>
+		<linkToWwf><![CDATA[http://www.wwf.ca/fr/]]></linkToWwf>
+	</config>
+	<question>
+		<header><![CDATA[QUESTION 1 – LE CHAUFFAGE]]></header>
+		<value>
+			<![CDATA[De combien de degrés baisses-tu le chauffage la nuit ou quand tu quittes la maison?]]>
+		</value>
+		<impact>positive</impact>
+		<range>0,5</range>
+		<fact>
+			<header><![CDATA[QUESTION 1 – LE CHAUFFAGE]]></header>
+			<title><![CDATA[UN PETIT GESTE – DE GROS RÉSULTATS!]]></title>
+			<body><![CDATA[Le chauffage et la climatisation représentent environ 60 % de la consommation d’énergie de ta résidence. Si tu diminues la température de 3 °C la nuit ou quand tu vas au travail ou à l’école, tu peux réduire tes émissions de carbone de près de 300 kg par année!]]></body>
+		</fact>
+	</question>
+	<question>
+		<header><![CDATA[QUESTION 2 – LE GASPILLAGE]]></header>
+		<value>
+			<![CDATA[Combien de sacs à provisions en plastique utilises-tu chaque semaine?]]>
+		</value>
+		<impact>negitive</impact>
+		<range>0,20</range>
+		<fact>
+			<header><![CDATA[QUESTION 2 – LE GASPILLAGE]]></header>
+			<title><![CDATA[APPORTE TON PROPRE SAC]]></title>
+			<body><![CDATA[Toutes les semaines, les Canadiens rapportent à la maison des millions de sacs de plastique fabriqués de dérivés du pétrole. En utilisant et en réutilisant un fourre-tout, tu évites que des centaines de sacs de plastique encombrent les dépotoirs tous les ans et tu aides à réduire les émissions de gaz à effet de serre provoquées par leur fabrication.]]></body>
+		</fact>
+	</question>
+	<question>
+		<header><![CDATA[QUESTION 3 – L’ÉNERGIE]]></header>
+		<value>
+			<![CDATA[Combien y a-t-il de chargeurs (de cellulaires, d’ordinateurs ou de lecteurs MP3) de branchés en ce moment chez toi?]]>
+		</value>
+		<impact>negitive</impact>
+		<range>0,10</range>
+		<fact>
+			<header><![CDATA[QUESTION 3 – L’ÉNERGIE ]]></header>
+			<title><![CDATA[DÉBRANCHE! ]]></title>
+			<body><![CDATA[Le chargeur moyen consomme 0,5 watt, même quand il n’a rien à charger! C’est un gros gaspillage, et une grande source d’émissions de carbone. Débranche tes chargeurs quand tu ne les utilises pas, ou installe une barre d’alimentation que tu peux éteindre tous les soirs. ]]></body>
+		</fact>
+	</question>
+	<question>
+		<header><![CDATA[QUESTION 4 – LE TRANSPORT]]></header>
+		<value>
+			<![CDATA[Combien de fois par semaine vas-tu à l’école ou au travail en voiture? ]]>
+		</value>
+		<impact>negitive</impact>
+		<range>0,5</range>
+		<fact>
+			<header><![CDATA[QUESTION 4 – LE TRANSPORT]]></header>
+			<title><![CDATA[LAISSE-LA DANS LE GARAGE]]></title>
+			<body><![CDATA[Si tous les Canadiens laissaient leur voiture à la maison un seul jour chaque semaine, nous pourrions réduire les émissions de gaz à effet de serre de 4,86 millions de tonnes. Cela représente 800 000 voitures de moins sur la route pendant un an!]]></body>
+		</fact>
+	</question>
+	<question>
+		<header><![CDATA[QUESTION 5 – LE COMPOSTAGE]]></header>
+		<value>
+			<![CDATA[À quelle fréquence compostes-tu tes déchets organiques?]]>
+		</value>
+		<impact>positive</impact>
+		<range>0,5</range>
+		<fact>
+			<header><![CDATA[QUESTION 5 – LE COMPOSTAGE]]></header>
+			<title><![CDATA[REDONNE À LA TERRE]]></title>
+			<body><![CDATA[On estime que 45 % des déchets envoyés au dépotoir pourraient être compostés. Les décharges publiques comptent pour 38 % des émissions de méthane au Canada. En compostant tes déchets organiques, tu réduirais de 175 kg la production de gaz à effet de serre chaque année! En plus, tu obtiendrais un engrais riche et naturel pour ton jardin!]]></body>
+		</fact>
+	</question>
+</data>

@@ -1,0 +1,15 @@
+﻿    <div id="work" style="display: block;">
+		<div class="vertical-wrapper">
+			<div class="horizontal-wrapper">
+				<div class="wrapper image fullscreen"><img alt="" id="content-main-img" src=""></div>
+			</div>
+		</div>
+	</div>
+
+    <a href="/main" rel="address:/main" id="show-grid" title="BACK TO GRID"></a>
+
+    <div class="controls-holder">
+        <a href="javascript:void(0);" id="show-info" title="INFO"></a>
+        <a href="javascript:void(0);" class="disabled" id="show-work" title="VIEW WORK"></a>
+        <a href="javascript:void(0);" id="show-link" class="disabled" title="LINK"></a>
+    </div>

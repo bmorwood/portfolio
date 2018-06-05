@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<portfolio>
+  <slide content-path="content/dr oetker/taste of rome/">
+    <info><![CDATA[Created banners for the Toronto, Vancour and Montreal autoshow.]]></info>
+    <swf><![CDATA[content/dr oetker/taste of rome/dro_300x250_en.swf]]></swf>
+    <brand>Mercedes-Benz Canada</brand>
+    <year>2012</year>
+    <type>banner</type>
+    <employer>Henderson Bas kohn</employer>
+  </slide>
+  
+  <slide content-path="content/mercedes/autoshow/">
+    <info><![CDATA[Created banners for the Toronto, Vancour and Montreal autoshow.]]></info>
+    <swf><![CDATA[content/mercedes/autoshow/mb_autoshow_300x250_on_en.swf]]></swf>
+    <brand>Mercedes-Benz Canada</brand>
+    <year>2012</year>
+    <type>banner</type>
+    <employer>Henderson Bas kohn</employer>
+  </slide>
+
+  <slide content-path="content/the weather network/the lorax/">
+    <info><![CDATA[Created banners for the weather network 'Let it grow' campaign and the movie the lorax tree.]]></info>
+    <swf><![CDATA[content/the weather network/the lorax/TWN033_Lorax_Banner_300x250_en.swf]]></swf>
+    <link>http://www.theweathernetwork.com/letitgrow/</link>
+    <brand>The Weather Network</brand>
+    <year>2012</year>
+    <type>banner</type>
+    <employer>Henderson Bas kohn</employer>
+  </slide>
+
+  <slide content-path="content/mercedes/mbz235/">
+    <info><![CDATA[It is time for some spring time advertising from Mercedes-Benz Canada.]]></info>
+    <swf><![CDATA[content/mercedes/mbz235/en_300x250_MBZ235.swf]]></swf>
+    <brand>Mercedes-Benz Canada</brand>
+    <year>2012</year>
+    <type>banner</type>
+    <employer>Henderson Bas kohn</employer>
+  </slide>
+
+  <slide content-path="content/mccormick/">
+    <swf><![CDATA[content/mccormick/en_300x250_mcc112_thai_kitchen_simply_asia.swf]]></swf>
+    <info><![CDATA[Created a parallax effect for a polar bear promo for the new white coke cans.]]></info>
+    <brand>Coca-cola Canada</brand>
+    <year>2011</year>
+    <type>banner</type>
+    <employer>Henderson Bas kohn</employer>
+  </slide>
+
+  <slide content-path="content/coke/polarbear/">
+    <info><![CDATA[Created a parallax effect for a polar bear promo for the new white coke cans.]]></info>
+    <brand>Coca-cola Canada</brand>
+    <year>2011</year>
+    <type>html5</type>
+    <employer>Henderson Bas kohn</employer>
+  </slide>
+
+  <slide content-path="content/coke/col719/" >
+    <info><![CDATA[Created a parallax effect for a polar bear promo for the new white coke cans.]]></info>
+    <swf><![CDATA[content/coke/col719/col719_300x250_en.swf]]></swf>
+    <brand>Coca-cola Canada</brand>
+    <year>2011</year>
+    <type>banner</type>
+    <employer>Henderson Bas kohn</employer>
+  </slide>
+
+  <slide content-path="content/mercedes/holidays/" >
+    <info><![CDATA[Mercedes-benz holiday wishlist popup book.]]></info>
+    <html width="520" height="600"><![CDATA[content/mercedes/holidays/index.html]]></html>
+    <brand>Mercedes Canada</brand>
+    <year>2011</year>
+    <type>richmedia, molehill</type>
+    <employer>Henderson Bas kohn</employer>
+  </slide>
+
+  <slide content-path="content/labs/dr.xo/" >
+    <info><![CDATA[recreated the nintendo game dr.mario in html5 as a learning exercise.]]></info>
+    <html width="500" height="700"><![CDATA[content/labs/dr.xo/index.htm]]></html>
+    <brand>Mercedes-Benz Canada</brand>0
+    <year>2012</year>
+    <type>html5</type>
+    <employer>Henderson Bas kohn</employer>
+  </slide>
+
+  <slide content-path="content/labs/x's and o's/" >
+    <html width="1000" height="500"><![CDATA[content/labs/x's and o's/index.html]]></html>
+    <info><![CDATA[first html5 canvas project.]]></info>
+    <brand>Mercedes-Benz Canada</brand>
+    <year>2012</year>
+    <type>html5</type>
+    <employer>Henderson Bas kohn</employer>
+  </slide>
+
+  <slide content-path="content/caa/game of life/" >
+    <info><![CDATA[Created caa version of the famious game of life, users could enter once and day to win a chance to go on a cruise, vacation and win prizes.]]></info>
+    <brand>CAA Canada</brand>
+    <year>2011</year>
+    <type>game, Interactive Media</type>
+    <employer>Henderson Bas kohn</employer>
+  </slide>
+
+  <slide content-path="content/coke/recipe/" >
+    <info><![CDATA[created interactive recipe book using html5.]]></info>
+    <campaign>Summer Recipe Book</campaign>
+    <brand>Coca-cola Canada</brand>
+    <year>2011</year>
+    <type>html5</type>
+    <employer>Henderson Bas kohn</employer>
+  </slide>
+  
+  <slide content-path="content/coke/diw/" >
+    <info><![CDATA[created a interactive way for users to user coke ipoints to win prizes.]]></info>
+    <brand>Coca-Cola Canada</brand>
+    <year>2011</year>
+    <type>game, Interactive Media</type>
+    <employer>Henderson Bas kohn</employer>
+  </slide>
+
+  <slide content-path="content/labs/mario/" >
+    <info><![CDATA[]]></info>
+    <html width="1024" height="768"><![CDATA[content/labs/mario/index.html]]></html>
+    <campaign>Paw Print Calculator</campaign>
+    <year>2011</year>
+    <type>molehill</type>
+  </slide>
+  
+  <slide content-path="content/coke/calculator/" >
+    <info><![CDATA[]]></info>
+    <html width="954" height="615"><![CDATA[content/coke/calculator/index_en.html]]></html>
+    <campaign>Paw Print Calculator</campaign>
+    <brand>coca-cola Canada</brand>
+    <year>2011</year>
+    <type>Interactive Media</type>
+    <employer>Henderson bas kohn</employer>
+  </slide>
+
+  <slide content-path="content/coorslight/the twins/" >
+    <info><![CDATA[coorslight game to allow users to win keys that went towards an entry to win a day at teh mystery mansion.]]></info>
+    <swf width="921" height="530"><![CDATA[content/coorslight/the twins/mm_twinsgame_en_v6.0.swf]]></swf>
+    <brand>Coorslight Canada</brand>
+    <year>2009</year>
+    <type>game, Interactive Media</type>
+    <employer>58Ninety Inc.</employer>
+  </slide>
+
+  <slide content-path="content/coorslight/security-breach/" >
+    <info><![CDATA[coorslight game to allow users to win keys that went towards an entry to win a day at teh mystery mansion.]]></info>
+    <swf width="921" height="530"><![CDATA[content/coorslight/security-breach/security_breach_en.swf]]></swf>
+    <brand>Coorslight Canada</brand>
+    <year>2009</year>
+    <type>game, Interactive Media</type>
+    <employer>58Ninety Inc.</employer>
+  </slide>
+
+  <slide content-path="content/coorslight/rumour-has-it/" >
+    <info><![CDATA[coorslight game to allow users to win keys that went towards an entry to win a day at teh mystery mansion.]]></info>
+    <swf width="921" height="530"><![CDATA[content/coorslight/rumour-has-it/mm_rumourhasit_en_v15.0.swf]]></swf>
+    <brand>Coorslight Canada</brand>
+    <year>2009</year>
+    <type>game, Interactive Media</type>
+    <employer>58Ninety Inc.</employer>
+  </slide>
+
+  <slide content-path="content/heineken/website/" >
+    <info><![CDATA[full flash website built for heinken.ca.]]></info>
+    <html width="800" height="500"><![CDATA[content/heineken/website/deploy]]></html>
+    <brand>Heineken</brand>
+    <year>2009</year>
+    <type>Interactive Media</type>
+    <employer>58Ninety Inc.</employer>
+  </slide>
+
+  <slide content-path="content/heineken/15 litre/" >
+    <info><![CDATA[Heineken 15L keg promotions, this banner is used to illustrate the number of glasses that could be filled with the new Kieneken 15L key.]]></info>
+    <swf><![CDATA[content/heineken/15 litre/heineken_pouring_300x250_EN.swf]]></swf>
+    <brand>Heineken Canada</brand>
+    <year>2009</year>
+    <type>banner</type>
+    <employer>58Ninety Inc.</employer>
+  </slide>
+
+  <slide content-path="content/coorslight/hide-and-seek/" >
+    <info><![CDATA[coorslight game to allow users to win keys that went towards an entry to win a day at the mystery mansion.]]></info>
+    <swf width="921" height="430"><![CDATA[content/coorslight/hide-and-seek/mansion_hide_and_seek_en.swf]]></swf>
+    <brand>Coorslight Canada</brand>
+    <year>2009</year>
+    <type>game</type>
+    <employer>58Ninety Inc.</employer>
+  </slide>
+
+  <slide content-path="content/coorslight/hill side chalet/" >
+    <info><![CDATA[a interactive 3d popup book for a contest to go to the 2010 winter olympics in BC, canada. ]]></info>
+    <html width="911" height="632"><![CDATA[content/coorslight/hill side chalet/shell.html]]></html>
+    <brand>Coorslight Canada</brand>
+    <year>2008</year>
+    <type>Interactive Media</type>
+    <employer>58Ninety Inc.</employer>
+  </slide>
+
+  <slide content-path="content/coorslight/trauma/" >
+    <info><![CDATA[Created a parallax effect for the header of the 2008 trauma series website.]]></info>
+    <swf width="909" height="299"><![CDATA[content/coorslight/trauma/Trauma_Header_v7.swf]]></swf>
+    <brand>Coorslight Canada</brand>
+    <year>2008</year>
+    <type>Interactive Media</type>
+    <employer>58Ninety Inc.</employer>
+  </slide>
+
+  <slide content-path="content/expedia/" >
+    <info><![CDATA[A fun interractive experience for expedia, pop the balloons and watch the chair move.]]></info>
+    <swf width="760" height="556"><![CDATA[content/expedia/expedia_pmu_en.swf]]></swf>
+    <brand>Expedia Canada</brand>
+    <year>2007</year>
+    <type>Interactive Media</type>
+    <employer>58Ninety Inc.</employer>
+  </slide>
+
+  <slide content-path="content/workopolis/moving-on-up/" >
+    <info><![CDATA[game banner for workopolis showing that using the workoplis resume engine you can move your career in the right direction... Up!]]></info>
+    <swf><![CDATA[content/workopolis/moving-on-up/moving_on_up_300x250_en_offline.swf]]></swf>
+    <campaign>clean sweep</campaign>
+    <brand>Workoplis Canada</brand>
+    <year>2008</year>
+    <type>game,banner</type>
+    <employer>58Ninety Inc.</employer>
+  </slide>
+
+  <slide content-path="content/coorslight/mystery mansion game/" >
+    <info><![CDATA[Mystery mansion promo, this was a interesting game, I have no words for this.]]></info>
+    <swf width="911" height="548"><![CDATA[content/coorslight/mystery mansion game/mystery_mansion_game_en_v1.22.swf]]></swf>
+    <campaign>clean sweep</campaign>
+    <brand>Coorslight Canada</brand>
+    <year>2007</year>
+    <type>game,Interactive Media</type>
+    <employer>58Ninety Inc.</employer>
+  </slide>
+
+  <slide content-path="content/coorslight/pee card/" >
+    <info><![CDATA[A fun interactive e-card for the holidays, the promo available for short time and was a great hit that never really saw the light of day, enjoy!]]></info>
+    <swf width="630" height="460"><![CDATA[content/coorslight/pee card/cl_pee_card_EN__embed_v1.12_offline.swf]]></swf>
+    <campaign>Pee Card</campaign>
+    <brand>Coorslight</brand>
+    <year>2008</year>
+    <type>game,interactive</type>
+    <employer>58Ninety Inc.</employer>
+  </slide>
+
+  <slide content-path="content/coorslight/fairway frenzy/" >
+    <info><![CDATA[create a golf racing cart banner to create buzz around the maxim golf experience!]]></info>
+    <swf width="300" height="250"><![CDATA[content/coorslight/fairway frenzy/FairWay_Frenzy_300x250_en_v16.swf]]></swf>
+    <campaign>Fairway Frenzy</campaign>
+    <brand>Coorslight Canada</brand>
+    <year>2008</year>
+    <type>game,banner</type>
+    <employer>58Ninety Inc.</employer>
+  </slide>
+
+  <slide content-path="content/workopolis/zamboni/" >
+    <info><![CDATA[clean the ice as fast as you can!]]></info>
+    <swf><![CDATA[content/workopolis/zamboni/cleansweep_300x250_en_offline.swf]]></swf>
+    <campaign>clean sweep</campaign>
+    <brand>Workoplis Canada</brand>
+    <year>2008</year>
+    <type>game,banner</type>
+    <employer>58Ninety Inc.</employer>
+  </slide>
+
+  <slide content-path="content/workopolis/summer run/" >
+    <info><![CDATA[]]></info>
+    <swf><![CDATA[content/workopolis/summer run/summer_run_300x250_v16_en.swf]]></swf>
+    <brand>Workoplis Canada</brand>
+    <year>2008</year>
+    <type>game,banner</type>
+    <employer>58Ninety Inc.</employer>
+  </slide>
+
+  <slide content-path="content/workopolis/winter run/" >
+    <info><![CDATA[a fun ski jump game.]]></info>
+    <swf><![CDATA[content/workopolis/winter run/skigame_300x250_en_v12_offline.swf]]></swf>
+    <brand>Workoplis Canada</brand>
+    <year>2008</year>
+    <type>game,banner</type>
+    <employer>58Ninety Inc.</employer>
+  </slide>
+
+  <slide content-path="content/58ninety/xmas card 2008/" >
+    <info><![CDATA[58ninety's holiday card.]]></info>
+    <swf width="981" height="654"><![CDATA[content/58ninety/xmas card 2008/xmas_2007_v1_6.swf]]></swf>
+    <brand>58Ninety Inc. Holiday Card 2008</brand>
+    <year>2008</year>
+    <type>Interactive Media</type>
+    <employer>58Ninety Inc.</employer>
+  </slide>
+
+  <slide content-path="content/58ninety/xmas card 2007/" >
+    <info><![CDATA[Holiday Card - Click the moon at teh end of the song to interact with the elfs!]]></info>
+    <swf width="800" height="500"><![CDATA[content/58ninety/xmas card 2007/xmascard_v5_2.swf]]></swf>
+    <brand>58Ninety Inc.</brand>
+    <year>2007</year>
+    <type>Interactive Media</type>
+    <employer>58Ninety Inc.</employer>
+  </slide>
+</portfolio>

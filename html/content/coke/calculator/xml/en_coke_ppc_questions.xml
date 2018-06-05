@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<config>
+		<facebookShare><![CDATA[http://www.facebook.com/sharer.php?u=^^serverdomain^^^^cxroot^^%2F^^lang^^%2Ffacebook%2Fshare%2F%3Fpromo%3Dpaw-print%26param1%3D^^badge^^%26contentUrl%3D%2Fextras%2Fpaw-print]]></facebookShare>
+		<twitterShare><![CDATA[http://twitter.com/home?status=Just measured my Polar Pawprint at icoke.ca. Take the quiz to find how much you're helping protect polar bear habitats. ^^twitterShareBitly^^]]></twitterShare>
+		<twitterShareBitly><![CDATA[^^serverdomain^^^^cxroot^^/^^lang^^/facebook/share/?promo=paw-print&param1=^^badge^^]]></twitterShareBitly>
+		<linkToWwf><![CDATA[http://www.wwf.ca]]></linkToWwf>
+	</config>
+	<question>
+		<header><![CDATA[QUESTION #1 – HEATING]]></header>
+		<value>
+			<![CDATA[How many degrees do you turn down the thermostat while you’re sleeping or out of the house?]]>
+		</value>
+		<impact>positive</impact>
+		<range>0,5</range>
+		<fact>
+			<header><![CDATA[QUESTION #1 – HEATING]]></header>
+			<title><![CDATA[KEEP YOUR COOL]]></title>
+			<body><![CDATA[Heating and cooling accounts for about 60 per cent of your home energy use. If you lowered the temperature by 3° Celsius when you’re sleeping, working or at school, you could reduce your carbon emissions by nearly 300 kg a year! ]]></body>
+		</fact>
+	</question>
+	<question>
+		<header><![CDATA[QUESTION #2 – WASTE]]></header>
+		<value>
+			<![CDATA[How many plastic shopping bags do you use every week?]]>
+		</value>
+		<impact>negitive</impact>
+		<range>0,20</range>
+		<fact>
+			<header><![CDATA[QUESTION #2 – WASTE]]></header>
+			<title><![CDATA[BRING YOUR OWN BAG]]></title>
+			<body><![CDATA[Every week, Canadians take home millions of plastic shopping bags made from petroleum. By using reusable shopping totes, you can personally keep hundreds of bags out of landfills each year, minimizing greenhouse gas emissions from bag production.]]></body>
+		</fact>
+	</question>
+	<question>
+		<header><![CDATA[QUESTION #3 – ENERGY]]></header>
+		<value>
+			<![CDATA[How many chargers (cell phones, laptops, mp3 players) are plugged in right now at home?]]>
+		</value>
+		<impact>negitive</impact>
+		<range>0,10</range>
+		<fact>
+			<header><![CDATA[QUESTION #3 – ENERGY]]></header>
+			<title><![CDATA[POWER DOWN]]></title>
+			<body><![CDATA[The average charger uses 0.5 watts of power – even when it's not charging anything! That can add up to a lot of waste – and a lot of carbon. Unplug them when you’re not using them, or put them on a power bar and turn it off each night.]]></body>
+		</fact>
+	</question>
+	<question>
+		<header><![CDATA[QUESTION #4 – TRANSPORT]]></header>
+		<value>
+			<![CDATA[How many days a week do you drive to work/school?]]>
+		</value>
+		<impact>negitive</impact>
+		<range>0,5</range>
+		<fact>
+			<header><![CDATA[QUESTION #4 – TRANSPORT]]></header>
+			<title><![CDATA[LEAVE IT IN PARK]]></title>
+			<body><![CDATA[If every Canadian left their car at home one day a week, we would save about 4.86 million tonnes of greenhouse gas emissions. That’s like taking 800,000 cars off the road for a year!]]></body>
+		</fact>
+	</question>
+	<question>
+		<header><![CDATA[QUESTION #5 – COMPOSTING]]></header>
+		<value>
+			<![CDATA[How often do you compost organic garbage? (Never, Rarely, Sometimes, Usually, Always)]]>
+		</value>
+		<impact>positive</impact>
+		<range>0,5</range>
+		<fact>
+			<header><![CDATA[QUESTION #5 – COMPOSTING]]></header>
+			<title><![CDATA[GET DOWN TO EARTH]]></title>
+			<body><![CDATA[It's estimated that 45% of all waste at the dump could be composted. Landfills create 38 % of Canada's methane emissions. Composting your organic waste can save 175 kg of greenhouse gas emissions a year! Plus, you'll get a rich, all-natural fertilizer for your garden!]]></body>
+		</fact>
+	</question>
+</data>
